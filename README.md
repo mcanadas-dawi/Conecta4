@@ -1,10 +1,10 @@
-# Conecta4
-## CodeWars 5kyu Kata
-### Tarea
+# CONECTA4
+## CODEWARS KYU5 KATA
+### TAREA
 El juego consta de una cuadrícula (7 columnas y 6 filas) y dos jugadores que se turnan para dejar caer sus fichas. Las piezas caen hacia abajo, ocupando el siguiente espacio disponible dentro de la columna. El objetivo del juego es ser el primero en formar una línea horizontal, vertical o diagonal de cuatro fichas propias.
 
 Tu tarea es crear una clase llamada Connect4 que tenga un método llamado *play* que toma un argumento para la columna donde el reproductor colocará su ficha.
-### Reglas
+### REGLAS
 1. Si un jugador tiene con éxito 4 fichas en horizontal, vertical o diagonal, entonces return: "¡El jugador n gana!". donde n es el jugador actual 1 o 2.
 
 3. Si un jugador intenta colocar una ficha en una columna que está llena, deberá devolver "¡Columna llena!". y el siguiente movimiento debe ser realizado por el mismo jugador.
@@ -17,7 +17,7 @@ Tu tarea es crear una clase llamada Connect4 que tenga un método llamado *play*
 
 11. Las columnas están numeradas del 0 al 6 de izquierda a derecha.
 
- ### Código
+ ### CÓDIGO
 
 ```java
 public class Connect4 {
@@ -116,5 +116,5 @@ public class Connect4 {
   
 }
 ```
-### Enlace al Kata
+### ENLACE AL KATA
 [Conecta4 Link](https://www.codewars.com/kata/586c0909c1923fdb89002031 "Conecta4 Link")
