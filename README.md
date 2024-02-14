@@ -1,5 +1,5 @@
 # CONECTA4
-## CODEWARS KYU5 KATA
+## CODEWARS 5KYU KATA
 ### TAREA
 El juego consta de una cuadrícula (7 columnas y 6 filas) y dos jugadores que se turnan para dejar caer sus fichas. Las piezas caen hacia abajo, ocupando el siguiente espacio disponible dentro de la columna. El objetivo del juego es ser el primero en formar una línea horizontal, vertical o diagonal de cuatro fichas propias.
 
